@@ -1,0 +1,57 @@
+# FANTASTICS from EXILE TRIBE – FINALE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+In the dark 光を求めて
+果てない地図を開いた
+増えてく雑音だらけの旅で繰り返したFind myself
+動くEra 理想郷はWaiting out there
+満たされないCravin' 隠せない喉の渇き
+幕が上がるたびにGoing insane
+Be crazy
+Can't slow down
+超えた"Red line"
+降り注ぐ叫びが燃やすParade
+全てを賭けて華麗に踊れ
+最後まで自由自在にRock it
+完成に近づく
+Countdown
+Loud!
+FINALE
+刹那を超え FINALE
+輝き出す FINALE
+We goin' off in this crowd
+Let's burn it all the way, till dawn we rise
+弾け飛び散る火花のように熱く
+一歩一歩の足跡が My plan通りに 頂点がFade up
+数えきれないほど集まる声でCrash寸前 Like
+crescendo
+ルーティンは合わないBody
+New thrillでしかDon't runnin'
+幕が上がるたびにGoing insane
+Be crazy
+暗闇を突き抜けて 鮮明になるPurpose
+この先の全ての場面が運命なら
+I wanna go all the way
+Can't back down
+Never gon' retire
+未だDevelop キャパはHundred percent
+この目に刻んだ全ての瞬間
+張らないバリケード Yeah, I'm born to collide
+最高のステージへ
+And face
+Loud!
+FINALE
+We goin' off in this crowd
+Let's burn it all the way, till dawn we rise
+弾け飛び散る火花のように熱く
+弾け飛び散る火花のように熱く
+FINALE
+I wanna ride it till it's over
+FINALE
+完成に近づく
+Countdown
+Loud!
+FINALE
+```
