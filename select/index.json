@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "FINALE",
+  "base_artist": "FANTASTICS from EXILE TRIBE",
+  "createdAt": "2026-02-10T14:26:17.913989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Grand Finale",
+      "artist": "Lil Jon & The East Side Boyz feat. Nas, T.I., Bun B & Ice Cube",
+      "has_synced": false,
+      "path": "select/01_Grand_Finale_Lil_Jon_&_The_East_Side_Boyz_feat._Nas,_T.I.,_Bun_B_&_Ice_Cube.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Grand Finale (feat. Nas, T.I., Bun B, Jadakiss & Ice Cube)",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": false,
+      "path": "select/02_Grand_Finale_(feat._Nas,_T.I.,_Bun_B,_Jadakiss_&_Ice_Cube)_Lil_Jon_&_The_East_Side_Boyz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Finale",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/03_Finale_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Finale",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/04_Finale_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Finale",
+      "artist": "Mike Oldfield",
+      "has_synced": true,
+      "path": "select/05_Finale_Mike_Oldfield.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Finale (Dub Mix)",
+      "artist": "Madeon",
+      "has_synced": false,
+      "path": "select/06_Finale_(Dub_Mix)_Madeon.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Finale",
+      "artist": "Madeon feat. Nicholas Petricca",
+      "has_synced": true,
+      "path": "select/07_Finale_Madeon_feat._Nicholas_Petricca.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Missy's Finale - Spoken Word",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/08_Missy's_Finale_-_Spoken_Word_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Missy's Finale",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/09_Missy's_Finale_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Odyssey Finale",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": false,
+      "path": "select/10_Odyssey_Finale_Jean-Michel_Jarre.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Finale",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/11_Finale_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Finale",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/12_Finale_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Finale",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/13_Finale_Beach_House.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FINALE",
+      "artist": "FANTASTICS",
+      "has_synced": false,
+      "path": "select/pl_01_FINALE_FANTASTICS.txt"
+    }
+  ]
+}
